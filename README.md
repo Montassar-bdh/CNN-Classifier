@@ -4,9 +4,18 @@ to train the model.
 
 The project has 2 main parts:
 1. The jupyter notebook
-2. Python scripts: contain the adapted jupyter notebook functions to run smoothly in the terminal.
+2. Python scripts: contain the adapted jupyter notebook functions to run smoothly in the terminal on custom datasets.
 
+# Requirements:
+```
+torch
+torchvision
+PIL
+numpy
+tqdm
+```
 
+# Dataset
 To download [the flowers dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html): 
 `wget https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz`
 
