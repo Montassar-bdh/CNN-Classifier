@@ -13,6 +13,7 @@ torchvision
 PIL
 numpy
 tqdm
+matplotlib
 ```
 
 # Dataset
