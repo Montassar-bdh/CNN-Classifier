@@ -3,8 +3,12 @@ Udacity final project for classifying Flower images. It uses transfer learning t
 to train the model.
 
 The project has 2 main parts:
-1. the jupyter notebook
-2. python scripts: contain the adapted jupyter notebook functions to run smoothly in the terminal.
+1. The jupyter notebook
+2. Python scripts: contain the adapted jupyter notebook functions to run smoothly in the terminal.
+
+
+To download [the flowers dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html): 
+`wget https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz`
 
 **NOTE:** to run the codes seamlessly, the dataset should folder should have the following structure:
   ```
